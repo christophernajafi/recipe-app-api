@@ -9,6 +9,6 @@ An API which enables a registered user to create lists of recipes and tag and se
 - [Docker](https://www.docker.com/)
 - Deployment: AWS, Travis CI, Nginx, Terraform, GitLab
 
-## Author
+## Developer
 
 [Christopher Najafi](https://www.chrisnajafi.com/)
